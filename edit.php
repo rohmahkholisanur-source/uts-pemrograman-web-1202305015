@@ -1,5 +1,5 @@
 <?php
-// Koneksi ke database
+// Koneksi ke database dan konfigurasi
 include_once("config.php");
 
 // --- BAGIAN UPDATE DATA ---
