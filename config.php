@@ -1,6 +1,6 @@
 <?php
 
-//hst
+//host
 $databaseHost = 'localhost';
 //Nama database
 $databaseName = 'presensi';
